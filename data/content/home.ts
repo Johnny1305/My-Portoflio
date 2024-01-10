@@ -69,8 +69,8 @@ export const testimonials: Testimonial[] = [
   },
   {
     quote:
-      "My vision was executed perfectly. The quality and speed of the work was excellent.",
-    name: "Zach Green",
-    job: "Founder of Hangxiety Shrink",
+      "He is a very nice, intelligent guy, he knows how to keep his patience and find solutions, I like how he programs web applications.",
+    name: "Blasvick",
+    job: "Streamer Twitch",
   },
 ];
