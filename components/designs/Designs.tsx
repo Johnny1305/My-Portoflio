@@ -11,7 +11,7 @@ function Designs() {
             key={index}
           >
               <img
-                className="w-full hover:opacity-75 transition-opacity object-cover"
+                className="w-full relative rounded-xl border-fun-gray border p-2 transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink will-change-projectCard"
                 src={item.img}
               />
           </div>
