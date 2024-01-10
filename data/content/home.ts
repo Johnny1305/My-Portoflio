@@ -69,7 +69,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     quote:
-      "He is a very nice, intelligent guy, he knows how to keep his patience and find solutions, I like how he programs web applications.",
+      "He is a very nice, intelligent guy, he knows how to keep his patience and find solutions, I like how he programs.",
     name: "Blasvick",
     job: "Streamer Twitch",
   },
