@@ -1,48 +1,59 @@
 type Design = {
   label: string,
   img: string,
-  link: string
 }
 
 export const designs: Design[] = [
   {
-    label: "Mobile Shopping App",
-    img: "/static/designs/mobile-shopping-app.jpg",
-    link: "https://dribbble.com/shots/9458498-Mobile-Shopping-App",
+    label: "Advanced JavaScript Course",
+    img: "/static/designs/js_avanzado.png",
   },
   {
-    label: "Modern App Design",
-    img: "/static/designs/modern-app-design.png",
-    link: "https://dribbble.com/shots/15485626-Modern-App-Design",
+    label: "Intermediate JavaScript Course",
+    img: "/static/designs/js_intermedio.png",
   },
   {
-    label: "Landing Pages for Startups - Concept",
-    img: "/static/designs/startup-landing-pages.png",
-    link: "https://dribbble.com/shots/15485635-Landing-Pages-for-Startups-Concept",
+    label: "Begginers JavaScript Course",
+    img: "/static/designs/js_principiantes.png",
   },
   {
-    label: "Luxury, Blue Portfolio",
-    img: "/static/designs/luxury-blue-portfolio.png",
-    link: "https://dribbble.com/shots/15165547-Luxury-Blue-Portfolio",
+    label: "PHP and MySQL Course: Creating dynamic sites",
+    img: "/static/designs/php_mysql.png",
   },
   {
-    label: "Mobile Deal Page",
-    img: "/static/designs/mobile-deal-page.jpg",
-    link: "https://dribbble.com/shots/9462248-Mobile-Deal-Page",
+    label: "Fundamentals of Programming Course",
+    img: "/static/designs/fundamentos_de_programacion.png",
   },
   {
-    label: "Neon Signatures",
-    img: "/static/designs/neon-signatures.jpeg",
-    link: "https://dribbble.com/shots/11134809-Neon-Signatures",
+    label: "Customizing Environments in Linux Course",
+    img: "/static/designs/personalizacion_linux.jpg",
   },
   {
-    label: "The Dentista - Logo Design",
-    img: "/static/designs/the-dentista-logo.png",
-    link: "https://dribbble.com/shots/14571857-The-Dentista-Logo-Design",
+    label: "Introduction to Linux Course",
+    img: "/static/designs/introduccion_a_linux.jpg",
   },
   {
-    label: "iPhone Wallpapers",
-    img: "/static/designs/iphone-wallpapers.png",
-    link: "https://dribbble.com/shots/14077089-Free-iPhone-Wallpapers",
+    label: "Expanding Concepts PHP Course",
+    img: "/static/designs/curso_php_ampliando_conceptos.jpg",
+  },
+  {
+    label: "PHP Courses for Beginners",
+    img: "/static/designs/curso_php_principiantes.jpg",
+  },
+  {
+    label: "Apache 2.4 Web Server Course",
+    img: "/static/designs/servidor_web_apache.jpg",
+  },
+  {
+    label: "CSS Optimization Course",
+    img: "/static/designs/optimizacion_css.jpg",
+  },
+  {
+    label: "CSS Layout Course",
+    img: "/static/designs/curso_maquetacion_css.jpg",
+  },
+  {
+    label: "HTML5 and CSS3 Course",
+    img: "/static/designs/curso_html_css.jpg",
   },
 ];

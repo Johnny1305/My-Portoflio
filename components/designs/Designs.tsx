@@ -10,12 +10,10 @@ function Designs() {
             className="w-full"
             key={index}
           >
-            <a href={item.link} target="_blank" className="w-full">
               <img
-                className="w-full h-96 hover:opacity-75 transition-opacity object-cover"
+                className="w-full hover:opacity-75 transition-opacity object-cover"
                 src={item.img}
               />
-            </a>
           </div>
         );
       })}
