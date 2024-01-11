@@ -41,7 +41,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
         <meta name="description" content={desc} />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="#" />
+        <meta property="og:url" content="https://johnnyportfolio.x10.mx" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={desc} />
         <meta
@@ -50,7 +50,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://braydentw.io/" />
+        <meta property="twitter:url" content="https://johnnyportfolio.x10.mx/" />
         <meta property="twitter:title" content={pageTitle} />
         <meta property="twitter:description" content={desc} />
         <meta
