@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="909" height="909" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m606.8,163c-241.74,164.21 -452.98,303.5 -432.41,378c30.91,112 523.61,-258 576,-156c41.6,81 -506.89,384.5 -506.89,384.5" id="svg_1" stroke="#00c7ff" stroke-width="50"/>
+  <circle cx="667.3" cy="122" fill="#00c7ff" id="svg_2" r="25"/>
+  <circle cx="605.3" cy="164" fill="#00c7ff" id="svg_3" r="25"/>
+  <circle cx="243" cy="769.78" fill="#00c7ff" id="svg_4" r="25"/>
+  <circle cx="181" cy="812" fill="#00c7ff" id="svg_5" r="25"/>
+  <circle cx="463" cy="441" fill="white" id="svg_6" r="250"/>
+  <path d="m175,541.99c30.91,112 523.61,-258 576,-156" id="svg_7" stroke="#00c7ff" stroke-width="50"/>
+  <g id="svg_8">
+   <text fill="#000000" font-family="Helvetica" font-size="24" font-weight="bold" id="svg_11" stroke-width="0" text-anchor="middle" transform="matrix(20.4517 0 0 17.2529 -8467.46 -7057.75)" x="435.06" xml:space="preserve" y="442.97">J</text>
+  </g>
+ </g>
+</svg>
