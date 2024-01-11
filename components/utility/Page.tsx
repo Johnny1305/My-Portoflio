@@ -46,7 +46,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
         <meta property="og:description" content={desc} />
         <meta
           property="og:image"
-          content="#"
+          content="/static/misc/og.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -55,7 +55,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
         <meta property="twitter:description" content={desc} />
         <meta
           property="twitter:image"
-          content="#"
+          content="/static/misc/og.png"
         ></meta>
         <script
           async
