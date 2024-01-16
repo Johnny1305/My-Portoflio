@@ -79,6 +79,14 @@ const projects: Project[] = [
     github: "https://github.com/Johnny1305/tictactoe-react",
     tags: ["React"],
   },
+  {
+    id: 9,
+    title: "The Russian Rule",
+    desc: "Guessing game and if you lose, System32 is removed. (Windows only)",
+    img: "/static/projects/russianrule.png",
+    github: "https://github.com/Johnny1305/La-Ruleta-Rusa",
+    tags: ["Python", "ShellScript"],
+  },
   
   
   
