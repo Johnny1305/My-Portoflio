@@ -5,6 +5,10 @@ type Design = {
 
 export const designs: Design[] = [
   {
+    label: "Python Course: Learn to programming in Python 3",
+    img: "/static/designs/python.png",
+  },
+  {
     label: "Advanced JavaScript Course",
     img: "/static/designs/js_avanzado.png",
   },
