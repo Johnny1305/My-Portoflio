@@ -15,7 +15,7 @@ const projects: Project[] = [
     title: "Guess The Number",
     desc: "The game presents players with a challenge to guess a secret number within a specified range.",
     img: "/static/projects/numero.png",
-    link: "https://demo.johnnyportfolio.x10.mx/adivina_el_numero/",
+    link: "https://johnnyportfolio.x10.mx/demo/adivina_el_numero/",
     github: "https://gitlab.com/Johnny1305/adivina-el-numero",
     tags: ["Python"],
   },
