@@ -39,6 +39,10 @@ export const routes: Route[] = [
     title: "Certificates",
     path: "/certs",
   },
+  {
+    title: "Blog",
+    path: "https://blog.johnnyportfolio.x10.mx",
+  },
 ];
 
 
