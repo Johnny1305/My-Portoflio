@@ -93,7 +93,7 @@ const projects: Project[] = [
     desc: "This npm package provides a collection of random, funny morals that you can use to add a touch of humor to your application or project.",
     img: "/static/projects/npm-morals.png",
     link: "https://www.npmjs.com/package/moralejas",
-    tags: ["NPM", "Javascript"],
+    tags: ["NPM", "Javascript", "NodeJS"],
   },
   
   
