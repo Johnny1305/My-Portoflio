@@ -87,6 +87,14 @@ const projects: Project[] = [
     github: "https://github.com/Johnny1305/La-Ruleta-Rusa",
     tags: ["Python", "ShellScript"],
   },
+  {
+    id: 10,
+    title: "Morals NPM",
+    desc: "This npm package provides a collection of random, funny morals that you can use to add a touch of humor to your application or project.",
+    img: "/static/projects/npm-morals.png",
+    github: "https://github.com/Johnny1305/npm-moralejas",
+    tags: ["NPM", "Javascript"],
+  },
   
   
   
