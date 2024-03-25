@@ -71,6 +71,11 @@ export const footer: Footer = {
           link: "/certs",
           leavesWebsite: false,
         },
+        {
+          name: "Blog",
+          link: "https://blog.johnny13.es",
+          leavesWebsite: false,
+        },
       ],
     },
     {
