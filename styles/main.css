@@ -306,3 +306,16 @@ pre {
 .sqD {
   @apply absolute z-[-10];
 }
+
+.text-spotify-green {
+  color: #00c7ff;
+  font-size: 1.4rem;
+	line-height: 1.714;
+	text-transform: uppercase;
+	letter-spacing: .15rem;
+}
+.spotify-widget {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
