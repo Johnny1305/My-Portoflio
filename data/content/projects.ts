@@ -20,22 +20,6 @@ const projects: Project[] = [
     tags: ["Python"],
   },
   {
-    id: 2,
-    title: "Project SMK Blockchain",
-    desc: "On this website, we provide breaking news, technical analysis of various markets, and advice on all things related to the world of blockchain.",
-    img: "/static/projects/smk.png",
-    link: "https://smkblockchain.com",
-    tags: ["Wordpress"],
-  },
-  {
-    id: 3,
-    title: "CountDown MoonBeam",
-    desc: "The central purpose of this ambitious project lies in the conception and development of an innovative countdown timer.",
-    img: "/static/projects/moonbeam.png",
-    link: "https://smkblockchain.com/countdown-moonbeam/",
-    tags: ["HTML", "CSS", "Javascript"],
-  },
-  {
     id: 4,
     title: "Number_Bot",
     desc: "Number_Bot offers a variety of commands that users can use to interact with the bot.",
