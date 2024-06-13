@@ -37,7 +37,7 @@ function ProjectCard2({ project }) {
             )}
           </div>
         </div>
-        <p className="text-fun-gray text-left text-sm">{project.desc}</p>
+        <p className="text-fun-gray text-left text-sm cursor-default">{project.desc}</p>
         <ul className="flex flex-wrap items-center mt-2 -ml-2 list-none">
           {project.tags.map((tag) => (
             <li key={tag}>
@@ -50,7 +50,7 @@ function ProjectCard2({ project }) {
           ))}
         </ul>
         <div className="mt-12 flex justify-center">
-          <p className="bg-red-600 text-white px-2 py-1 text-xl rounded">DEVELOPING</p>
+          <p className="bg-red-600 text-white px-2 py-1 text-xl rounded cursor-default">DEVELOPING</p>
         </div>
       </div>
     </div>
