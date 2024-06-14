@@ -23,18 +23,7 @@ export default function Home() {
       <div className="mt-20 space-y-32">
         <Projects />
         <Skills />
-        <div>
-          <h5 className="text-spotify-green">I am currently listening to</h5>
-          <div className="spotify-widget">
-            <iframe 
-              src="https://6klabs.com/widget/spotify/0b1052a5efe408cc49d13c35416baf6e62d8d275d1b1faa443f919c99eda1d8b" 
-              style={{ width: "350px", marginBottom: "10px", border: "none" }} 
-              title="Spotify Now Playing">
-            </iframe>
-          </div>
-          <h5 className="text-spotify-green">on Spotify</h5>
-          <Testimonials />
-        </div>
+        <Testimonials />
         {/* <Posts allPosts={allPosts} /> */}
       </div>
       <CTA />
