@@ -5,7 +5,7 @@ function Hero() {
   return (
     <>
       <div
-        className="relative heroElem w-full pt-20 pb-40 m-auto flex justify-center text-center flex-col items-center z-1 cursor-default"
+        className="relative heroElem w-full pt-20 pb-40 m-auto flex justify-center text-center flex-col items-center z-1"
         style={{ maxWidth: "1200px" }}
       >
         <p className="text-xl mb-5">Hey, I'm Johnny13.</p>
@@ -66,7 +66,7 @@ function Hero() {
           smooth={true}
           duration={500}
         >
-          <div className="cursor-pointer font-bold whitespace-nowrap px-10 py-4 text-fun-white border-2 text-xl rounded-full border-fun-white bg-bg hover:bg-fun-pink hover:text-white hover:border-fun-pink transition-colors">
+          <div className="font-bold whitespace-nowrap px-10 py-4 text-fun-white border-2 text-xl rounded-full border-fun-white bg-bg hover:bg-fun-pink hover:text-white hover:border-fun-pink transition-colors">
             Tell me more
           </div>
         </ScrollLink>

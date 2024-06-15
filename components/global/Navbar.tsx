@@ -5,7 +5,7 @@ import { routes } from "@/data/global";
 function Navbar({ currentPage }) {
   return (
     <nav className="flex items-center justify-between">
-      <li className="list-none font-bold text-lg cursor-pointer">
+      <li className="list-none font-bold text-lg">
         <Link href="/">
           <span className="font-black text-xl flex items-center">
             <img

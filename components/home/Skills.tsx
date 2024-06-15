@@ -1,9 +1,10 @@
 import React from "react";
 import { skills } from "@/data/content/home";
+import Marquee from "react-fast-marquee";
 
 function Skills() {
   return (
-    <div className="heroElem flex flex-col md:flex-row justify-between relative cursor-default">
+    <div className="heroElem flex flex-col md:flex-row justify-between relative">
       <h2 className="heroTitle relative text-3xl w-full text-center md:text-left font-bold md:max-w-lg mb-10 md:mr-10 md:mb-0 md:w-max mr-0 heroShinyBg">
         I got the experience.
         <br />
@@ -30,6 +31,7 @@ function Skills() {
         />
       </h2>
       <div className="relative max-w-lg w-full mx-auto md:mx-none grid gap-x-8 gap-y-12 sm:gap-8 md:gap-12 grid-cols-3 sm:grid-cols-6 items-center place-content-center">
+      
         {skills.map((item, index) => {
           return (
             <div
@@ -44,6 +46,7 @@ function Skills() {
             </div>
           );
         })}
+        
       </div>
     </div>
   );

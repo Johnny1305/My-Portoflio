@@ -23,6 +23,18 @@ body::-webkit-scrollbar-thumb {
   border-radius: 10px;
 }
 
+body {
+  cursor: url("/cursor.png"), auto !important;
+}
+
+:where(a, button, .select, .select, Link > *, input, .option, Link):hover {
+  cursor: url("/pointer.png"), auto !important;
+}
+
+:where(a, button, .select, .select > *, input, .option):disabled {
+  cursor: url("/notallowed.png"), auto !important;
+}
+
 .landingSectionTitle::before {
   content: "";
   position: absolute;
