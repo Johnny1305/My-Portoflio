@@ -30,18 +30,20 @@ function Skills() {
         />
       </h2>
       <div className="relative max-w-lg w-full mx-auto md:mx-none grid gap-x-8 gap-y-12 sm:gap-8 md:gap-12 grid-cols-3 sm:grid-cols-6 items-center place-content-center">
-        {skills.map((item, index) => (
-          <div
-            title={item.title}
-            key={index}
-            className="w-10 mx-auto flex items-center flex-col justify-center transform transition-transform duration-300 ease-in-out hover:-translate-y-2"
-          >
-            <img src={item.icon} style={item.style} className="lift" />
-            <p className="text-xs text-fun-gray font-bold mt-3 opacity-80">
-              {item.title}
-            </p>
-          </div>
-        ))}
+        {skills.map((item, index) => {
+          return (
+            <div
+              title={item.title}
+              key={index}
+              className="w-10 mx-auto flex items-center flex-col justify-center hover"
+            >
+              <img src={item.icon} style={item.style} />
+              <p className="text-xs text-fun-gray font-bold mt-3 opacity-80">
+                {item.title}
+              </p>
+            </div>
+          );
+        })}
       </div>
     </div>
   );

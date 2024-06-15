@@ -5,7 +5,7 @@ function CTA() {
     <div className="pt-36 relative w-full">
       <img className="w-30 m-auto mb-2" src="/static/doodles/lineBreak.svg" />
       <div className="pt-14 pb-40">
-        <h2 className="text-4xl md:text-5xl font-bold mb-10">
+        <h2 className="text-4xl md:text-5xl font-bold mb-10 cursor-default">
           Interested in Working Together?
         </h2>
         <a

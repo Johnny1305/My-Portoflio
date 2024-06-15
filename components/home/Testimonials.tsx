@@ -6,7 +6,7 @@ function Testimonials() {
   return (
     <div className="flex flex-col text-left max-w-md md:max-w-full w-full">
       <SectionTitle title="Why people love my work!" />
-      <div className="max-w-5xl m-auto md:max-h-[200px] grid grid-cols-1 gap-10 md:gap-10 md:grid-cols-3 items-start">
+      <div className="heroElem max-w-5xl m-auto md:max-h-[200px] grid grid-cols-1 gap-10 md:gap-10 md:grid-cols-3 items-start cursor-default">
         {testimonials.map((item, index) => {
           return (
             <div
@@ -31,6 +31,7 @@ function Testimonials() {
               {index === 2 && (
                 <img
                   className="sqD top-[-30px] right-[-15px] w-11"
+                  style={{ animationDelay: "0.1s" }}
                   src="/static/doodles/testimonials/squiggle2.svg"
                 />
               )}
