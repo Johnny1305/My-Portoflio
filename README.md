@@ -17,13 +17,10 @@ Hi, I'm Johnny, a passionate software developer with experience in web developme
   </a>
 </p>
 
-## Habilidades
-
-
 ## Contacto
 
 - **Correo Electrónico**: [jonathan.ramos.business@gmail.com](mailto:jonathan.ramos.business@gmail.com)
-- **LinkedIn**: [Tu LinkedIn](enlace-a-tu-linkedin)
+- **LinkedIn**: [Johnny13](https://www.linkedin.com/in/johnny13/)
 - **GitHub**: [Johnny1305](https://github.com/Johnny1305)
 
 Thanks for visiting my portfolio! Don't hesitate to contact me if you have any questions or if you want to collaborate on a project.
