@@ -13,44 +13,44 @@ type Testimonial = {
 export const skills: Skill[] = [
   {
     title: "HTML",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    icon: "https://skillicons.dev/icons?i=html",
   },
   {
     title: "CSS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    icon: "https://skillicons.dev/icons?i=css",
   },
   {
     title: "Javascript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    icon: "https://skillicons.dev/icons?i=js",
   },
   {
     title: "React",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    icon: "https://skillicons.dev/icons?i=react",
   },
   {
     title: "NextJS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+    icon: "https://skillicons.dev/icons?i=nextjs",
     style: { filter: "invert(1)" },
   },
   {
     title: "Typescript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    icon: "https://skillicons.dev/icons?i=ts",
   },
   {
     title: "NodeJS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    icon: "https://skillicons.dev/icons?i=nodejs",
   },
   {
     title: "Git",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    icon: "https://skillicons.dev/icons?i=git",
   },
   {
     title: "Python",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    icon: "https://skillicons.dev/icons?i=py",
   },
   {
     title: "MongoDB",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+    icon: "https://skillicons.dev/icons?i=mongodb",
   },
 ];
 
