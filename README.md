@@ -12,17 +12,13 @@ Hi, I'm Johnny, a passionate software developer with experience in web developme
 - **Description**: Number_Bot is much more than just a bot for Discord; is a project conceived with the mission of enriching and improving the user experience on its servers. Designed with passion and commitment, Number_Bot offers a variety of features aimed at making your time in Discord more secure, interactive and entertaining.
 - **Technologies**:
 <p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,mongodb,nextjs,nodejs,py,react,ts,vercel,vscode,wordpress" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=discordjs,js,git,github,mongodb,nodejs,vscode" />
   </a>
 </p>
 
 ## Habilidades
 
-- **Lenguajes de Programación**: JavaScript, Python, Java, C#, etc.
-- **Frameworks y Librerías**: React, Angular, Vue, Django, Flask, etc.
-- **Bases de Datos**: MySQL, PostgreSQL, MongoDB, etc.
-- **Herramientas y Tecnologías**: Git, Docker, Kubernetes, AWS, etc.
 
 ## Contacto
 
