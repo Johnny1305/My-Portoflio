@@ -4,6 +4,7 @@ import { footer } from "@/data/global";
 import Image from "next/image";
 
 function Footer() {
+  const year = new Date().getFullYear();
   return (
     <footer className="flex flex-col w-screen px-5 py-10 border-t border-fun-pink-darker z-5 bg-bg">
       <div className="w-full max-w-4xl m-auto grid grid-cols-2 sm:grid-cols-3 justify-between items-start">
@@ -80,14 +81,13 @@ function Footer() {
       <div className="max-w-4xl w-full m-auto mt-8 pt-8 sm:mt-4 sm:pt-4 text-center text-fun-gray border-t border-fun-pink-dark">
         <p className="flex flex-col items-center justify-center ">
           <div className="mt-2 text-xs ">
-            Made by{" "}
+          &copy; {year}{" "}
             <a
               href="mailto:jonathan.ramos.business@gmail.com"
               className="text-fun-gray-light font-medium"
             >
               Johnny13
-            </a>
-            . All rights reserved.
+            </a>.
           </div>
         </p>
       </div>
