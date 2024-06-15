@@ -48,6 +48,10 @@ export const skills: Skill[] = [
     title: "Python",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
   },
+  {
+    title: "MongoDB",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+  },
 ];
 
 export const testimonials: Testimonial[] = [
