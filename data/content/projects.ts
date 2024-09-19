@@ -24,7 +24,7 @@ const projects: Project[] = [
     title: "Number_Bot",
     desc: "Number_Bot offers a variety of commands that users can use to interact with the bot.",
     img: "/static/projects/numberbot.png",
-    link: "https://numberbot.johnny13.es",
+    link: "https://numberbot.es",
     tags: ["DiscordJS", "Javascript", "NodeJS"],
   },
   {
