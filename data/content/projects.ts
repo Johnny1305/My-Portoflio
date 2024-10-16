@@ -78,6 +78,15 @@ const projects: Project[] = [
     link: "https://www.npmjs.com/package/moralejas",
     tags: ["NPM", "Javascript", "NodeJS"],
   },
+  {
+    id: 11,
+    title: "GitHub User Search",
+    desc: "GitHub User Search is a web application that allows you to search for GitHub profiles, displaying information about repositories and followers in an easy and intuitive way.",
+    img: "/static/projects/github-search.png",
+    link: "https://searchgithub-user.vercel.app/",
+    github: "https://github.com/Johnny1305/github-user-search",
+    tags: ["React", "Javascript", "NodeJS"],
+  },
   
   
   
