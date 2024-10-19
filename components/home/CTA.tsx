@@ -9,7 +9,7 @@ function CTA() {
           Interested in Working Together?
         </h2>
         <a
-          href="mailto:jonathan.ramos.business@gmail.com"
+          href="mailto:johnny@johnny13.es"
           className="cursor-pointer font-bold whitespace-nowrap 
         mt-6 px-8 py-3 text-white border-2 rounded-full border-white bg-bg hover:bg-fun-pink hover:border-fun-pink transition-colors"
         >

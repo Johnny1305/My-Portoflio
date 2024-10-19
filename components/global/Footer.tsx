@@ -83,7 +83,7 @@ function Footer() {
           <div className="mt-2 text-xs ">
           &copy; {year}{" "}
             <a
-              href="mailto:jonathan.ramos.business@gmail.com"
+              href="mailto:johnny@johnny13.es"
               className="text-fun-gray-light font-medium"
             >
               Johnny13
